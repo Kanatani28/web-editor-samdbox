@@ -1,1 +1,1 @@
-console.log('HelloWebEditor');
+console.log('HelloWorld');
